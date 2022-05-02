@@ -19,8 +19,7 @@
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SabrinaMarkon/react-job-board.git"
+    "type": "git"
   },
   "keywords": [
     "react",
